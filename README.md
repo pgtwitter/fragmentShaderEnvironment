@@ -5,7 +5,7 @@
 $ python -m http.server 8000
 ```
 
-2. Accessing the http server
+2. Access the http server
 
 ```
 http://locahost:8000
