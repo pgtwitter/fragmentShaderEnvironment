@@ -2,6 +2,7 @@
 1. Start the http server
 
 ```
+$ cd /path/to/fragmentShaderEnvironment
 $ python -m http.server 8000
 ```
 
